@@ -4,6 +4,10 @@
   <em>Computer Science & Engineering Student · AI & ML Specialization · RV College of Engineering (RVCE)</em>
 </p>
 
+<p align="center">
+  🏛️ RV College of Engineering &nbsp;|&nbsp; 📍 Bengaluru, Karnataka &nbsp;|&nbsp; ✉️ amartyap19@gmail.com
+</p>
+
 ---
 
 I'm a CSE student specializing in **AI & Machine Learning**, with a strong interest in **software engineering**, **backend development**, and **scalable systems**. I enjoy designing and building end-to-end software products by combining modern engineering practices with AI technologies.
@@ -69,4 +73,8 @@ I actively contribute to open source and enjoy working on AI-powered developer t
 
 <a href="https://www.linkedin.com/in/amartya-prasad-746245389">
   <img src="https://img.shields.io/badge/LinkedIn-Amartya%20Prasad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:amartyap19@gmail.com">
+  <img src="https://img.shields.io/badge/Email-amartyap19%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
