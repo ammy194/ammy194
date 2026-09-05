@@ -40,14 +40,6 @@ I actively contribute to open source and enjoy working on AI-powered developer t
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Systems & Engineering
-![System Design](https://img.shields.io/badge/System%20Design-6E40C9?style=flat-square&logo=blueprint&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-E34F26?style=flat-square&logo=apachekafka&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=flat-square&logo=istio&logoColor=white)
-![Caching](https://img.shields.io/badge/Caching-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Message Queues](https://img.shields.io/badge/Message%20Queues-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Database Replication](https://img.shields.io/badge/Database%20Replication-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
 ---
 
 ## 💡 Technical Interests
@@ -58,7 +50,7 @@ I actively contribute to open source and enjoy working on AI-powered developer t
 | **AI / ML** | Machine Learning, Generative AI, RAG Pipelines, LLM-based Applications |
 | **Backend & Infrastructure** | Node.js, Express.js, REST APIs, PostgreSQL, Supabase, Docker, Kubernetes |
 | **Frontend** | React, TypeScript, JavaScript |
-| **Systems** | Distributed Systems, Microservices, Caching, Message Queues, Database Replication |
+| **Open Source & Collaboration** | Open-source engineering, hackathons, collaborative development |
 
 ---
 
