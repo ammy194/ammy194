@@ -38,6 +38,7 @@ I actively contribute to open source and enjoy working on AI-powered developer t
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -52,7 +53,7 @@ I actively contribute to open source and enjoy working on AI-powered developer t
 |---|---|
 | **Software Engineering** | Data Structures & Algorithms, Object-Oriented Programming, System Design |
 | **AI / ML** | Machine Learning, Generative AI, RAG Pipelines, LLM-based Applications |
-| **Backend & Infrastructure** | Node.js, Express.js, REST APIs, PostgreSQL, Supabase, Docker, Kubernetes |
+| **Backend & Infrastructure** | Node.js, Express.js, REST APIs, PostgreSQL, Supabase, Docker, Kubernetes, CI/CD Pipelines |
 | **Frontend** | React, TypeScript, JavaScript |
 | **Open Source & Collaboration** | Open-source engineering, hackathons, collaborative development |
 
