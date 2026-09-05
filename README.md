@@ -6,9 +6,9 @@
 
 ---
 
-I'm a CS&E student specializing in **AI & Machine Learning**, with a strong interest in **software engineering**, **backend development**, and **scalable systems**. I enjoy designing and building end-to-end software products — combining modern engineering practices with AI technologies.
+I'm a CSE student specializing in **AI & Machine Learning**, with a strong interest in **software engineering**, **backend development**, and **scalable systems**. I enjoy designing and building end-to-end software products by combining modern engineering practices with AI technologies.
 
-My work spans AI-powered developer tools, full-stack applications, and solutions built through open-source engineering challenges and hackathons. I'm focused on becoming a well-rounded engineer capable of taking a product from idea to implementation.
+I actively contribute to open source and enjoy working on AI-powered developer tools, full-stack applications, and projects built through engineering challenges and hackathons. I'm focused on becoming a well-rounded engineer who can take a product from idea to implementation.
 
 ---
 
